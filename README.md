@@ -2,7 +2,7 @@
 
 ### air-combat-Reinforcement-Learning
 
-原作者实现时采用了Tensorflow 1.x ，介于TF1.x的晦涩难懂，作者花了一点时间使用pytorch 重新实现大佬的代码， 增加了图示 ， 对于算法的具体细则（我不是很懂 ！！！！！）。
+原作者实现时采用了Tensorflow 1.x ，鉴于TF1.x的晦涩难懂，作者花了一点时间使用pytorch 重新实现大佬的代码， 增加了图示 ， 对于算法的具体细则（我不是很懂 ！！！！！）。
 
 
 感谢
